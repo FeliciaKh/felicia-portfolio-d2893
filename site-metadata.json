@@ -2,7 +2,7 @@
     "description": "A minimal blogging theme for Stackbit",
     "header": {
         "title": "Felicia Khan",
-        "tagline": "Minimal and clean blog theme",
+        "tagline": "Minimal and clean blog them",
         "background_img": "images/header-bg.jpg",
         "has_nav": true,
         "nav_links": [
